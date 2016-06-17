@@ -1,0 +1,129 @@
+body
+{
+  background-color: black;
+  font-size: 100%
+}
+
+img
+{
+  border: 0;
+}
+
+#right-bar
+{
+  float: right;
+  margin-top: 100px;
+  font-family: "Courier New"
+}
+
+textarea
+{
+  background-color: black;
+  resize: none;
+  font-family: "Courier New";
+}
+
+.right-element
+{
+  margin-right: 40px;
+  width: 400px;
+}
+
+#instructions
+{
+  height: 115px;
+  overflow: hidden;
+}
+
+.info-text
+{
+  color: #ffb6c1;
+  font-style: italic;
+  font-size: 1em;
+  font-family: "Courier New"
+}
+
+.login
+{
+  margin-left: 40px;
+}
+
+.login-label
+{
+  margin-left: 40px;
+  color: white;
+  font-family: "Courier New";
+  font-size: 1em;
+}
+
+#login-submit
+{
+  margin-left: 140px;
+}
+
+.button
+{
+  background-color: #ffb6c1;
+  font-family: "Courier New";
+}
+
+#instructions
+{
+  border: none;
+}
+
+#suggestions
+{
+  color: white;
+  height: 250px;
+}
+
+.admin-select
+{
+  width: 400px;
+  font-family: "Courier New";
+  color: #00ff00;
+  font-size: 0.8em;
+  background-color: black;
+}
+
+#conversation-area
+{
+  margin-left: 40px;
+}
+
+#conversation-text
+{
+  color: #00ff00;
+  width: 400px;
+  font-size: 0.8em;
+  border: none;
+}
+
+.combo
+{
+  background-color: black;
+  color: #00ff00;
+  font-size: 0.8em;
+  width: 2%;
+  font-family: "Courier New";
+  text-align: center;
+}
+
+#user-response
+{
+  background-color: black;
+  color: #00ff00;
+  font-size: 0.8em;
+  width: 96%;
+  position: absolute;
+  font-family: "Courier New";
+}
+
+#reply-button
+{
+  position: absolute;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+}
